@@ -28,8 +28,12 @@ Model 2: CatBOOST
 - **Step4**: Outputs of the models are combined. We replace prediction scores that >5 as 5 and prediction scores that <1 as 1
 before combination and after combination. Then we get our final results!
 
-### Details of Files:
-
+### Future Improvements:
+- Enhanced Graph Embedding with Side Information always performs better than original graph embedding method.
+- Higher dimension for embedding vectors always gives us more accuracy predictions.
+- Light GBM performs better than Cat Boost.
+- Other related information can be included. (e.g., NLP analysis for review text)
+- More data will capture higher fluctruations.
 
 ### Special Notes:
 - Please do not copy the codes directly with any purpose.
