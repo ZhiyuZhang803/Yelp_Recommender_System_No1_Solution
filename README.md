@@ -34,6 +34,7 @@ before combination and after combination. Then we get our final results!
 - Light GBM performs better than Cat Boost.
 - Other related information can be included. (e.g., NLP analysis for review text)
 - More data will capture higher fluctruations.
+- Tagging Techniques should be possible ways to further develop recommender system.
 
 ### Special Notes:
 - Please do not copy the codes directly with any purpose.
